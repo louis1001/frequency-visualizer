@@ -1,7 +1,7 @@
 
 
 const timeScale = 5
-const lineNumber = 10
+const lineNumber = 15
 const segmentSize = (14000-20) / lineNumber
 let buffer = []
 let completeSong = []
